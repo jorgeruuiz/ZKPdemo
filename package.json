@@ -1,0 +1,24 @@
+{
+  "name": "zkpdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgeruuiz/ZKPdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jorgeruuiz/ZKPdemo/issues"
+  },
+  "homepage": "https://github.com/jorgeruuiz/ZKPdemo#readme",
+  "dependencies": {
+    "snarkjs": "^0.7.6"
+  }
+}
