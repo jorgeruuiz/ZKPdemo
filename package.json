@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/jorgeruuiz/ZKPdemo/issues"
   },
-  "homepage": "https://github.com/jorgeruuiz/ZKPdemo#readme",
-  "dependencies": {
-    "snarkjs": "^0.7.6"
-  }
+  "homepage": "https://github.com/jorgeruuiz/ZKPdemo#readme"
 }
